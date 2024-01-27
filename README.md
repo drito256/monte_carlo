@@ -1,5 +1,5 @@
 # monte_carlo
-Comparision between serial and parallel monte carlo integration using openMP
+## Comparision between serial and parallel monte carlo integration using openMP
 
 To compile serial code use:
 ```
